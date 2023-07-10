@@ -17,6 +17,8 @@
     "cypress": "^9.5.0",
     "jest-junit": "^11.1.0",
     "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-normalize": "^10.0.1",
+    "postcss-preset-env": "^8.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^5.0.1",
